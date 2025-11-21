@@ -108,9 +108,8 @@ Loan-Default-Prediction/
 
 ├── loan_default_prediction.ipynb
 
-├── README.md
+└── README.md
 
-└── images/ (optional visualizations)
 
 __🚀 How to Run the Project__
 
