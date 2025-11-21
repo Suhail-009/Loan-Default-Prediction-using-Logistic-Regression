@@ -1,7 +1,7 @@
 # Loan-Default-Prediction-using-Logistic-Regression
 A beginner-friendly machine learning project to predict whether a customer will default on a loan based on demographic and financial details. This project demonstrates data cleaning, encoding, exploratory analysis, model building, and evaluation using Python.
 
-__Project Overview__
+__📂 Project Overview__
 
 The goal of this project is to build a classification model that predicts loan default using features such as:
 
@@ -88,3 +88,41 @@ Identified which features most influence loan default.
 * Accuracy: 0.95%
 * Customers with low combined income, high loan amount, or no credit history had the highest default probability.
 * Logistic Regression provides a clear interpretation of feature influence.
+
+🛠️ Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+__📦 Project Structure__
+
+Loan-Default-Prediction/
+
+│
+
+├── loan_data.csv
+
+├── loan_default_prediction.ipynb
+
+├── README.md
+
+└── images/ (optional visualizations)
+
+__🚀 How to Run the Project__
+
+**1. Clone the repository**
+
+git clone https://github.com/your-username/loan-default-prediction.git
+
+**2. Install dependencies**
+
+pip install -r requirements.txt
+
+**3. Run the notebook**
+
+jupyter notebook loan_default_prediction.ipynb
+
