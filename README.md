@@ -117,11 +117,8 @@ __🚀 How to Run the Project__
 
 https://github.com/Suhail-009/Loan-Default-Prediction-using-Logistic-Regression/blob/main/Loan_Default_Prediction.ipynb
 
-**2. Install dependencies**
 
-pip install -r requirements.txt
-
-**3. Run the notebook**
+**2. Run the notebook**
 
 http://localhost:8888/lab/tree/new%20projects/Loan_Default_Prediction.ipynb
 
