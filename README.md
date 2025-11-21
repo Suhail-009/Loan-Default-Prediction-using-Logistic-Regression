@@ -124,5 +124,5 @@ pip install -r requirements.txt
 
 **3. Run the notebook**
 
-jupyter notebook loan_default_prediction.ipynb
+http://localhost:8888/lab/tree/new%20projects/Loan_Default_Prediction.ipynb
 
